@@ -1,0 +1,201 @@
+timestamp,location_id,latitude,longitude,road_name,road_type,speed_limit,lane_count,direction,vehicle_count,congestion_level,travel_time_min,accidenot_reported,accident_severity,weather_condition,road_condition,visibility_meters,signal_status,pedestrian_count,special_eveNT,work_zone,emergency_vehicle,data_source,time_of_day,day_of_week,avg_speed,delay_time
+01-07-2024 00:00,HWY_95_N_KM62,48.8738821,-73.0674951,I-95 North,Rural,21 kph,3,Westbound,120,Low,259,no,Fatal,Snow,Wet,907,Green,8,TRUE,YES,FALSE,Loop detector ,Off-Peak,Weekday,92,105
+02-07-2024 21:28,HWY_95_N_KM75,54.0682514,-122.041665,I-80 East,Urban,20kph,5,Northbound,120,Low,580,yes,Fatal,Rain,Dry,635,Red,12,FALSE,NO,FALSE,Loop detector ,Off-Peak,Weekend,88,105
+04-07-2024 18:56,HWY_95_N_KM51,37.7550861,-76.3297723,I-95 North,Highway,66 kph,5,Eastbound,492,Medium,120,no,Injury,Snow,Dry,666,Green ,12,FALSE,NO,FALSE,Loop detector,Peak,Weekday,77,45
+06-07-2024 16:24,HWY_95_N_KM32,36.3764659,-102.4080816,I-95 North,Highway,65 kph,6,Westbound,338,Medium,700,yes,Fatal,Snow,Wet,634,Green,12,FALSE,NO,TRUE,Loop detector ,Peak,Weekday,67,105
+08-07-2024 13:52,HWY_95_N_KM74,41.9593102,-93.2898912,I-80 West,Urban,68 kph,4,Southbound,85,Low,650,no,Fatal,Clear,Dry,634,Red,25,TRUE,YES,TRUE,Loop detector ,Night,Weekday,95,90
+10-07-2024 11:20,HWY_95_N_KM17,53.3335613,-121.7013193,I-80 East,Rural,63 kph,4,Westbound,496,Medium,300,no,Injury,Rain,Wet,567,Green,0,FALSE,NO,FALSE,GPS,Off-Peak,Weekday,65,60
+12-07-2024 08:48,HWY_95_N_KM58,57.2693331,-98.9334592,I-95 South,Highway,48 kph,4,Westbound,983,Severe,175,no,Fatal,Snow,Icy,634,Green ,4,TRUE,NO,FALSE,Camera,Night,Weekday,34,90
+14-07-2024 06:16,HWY_95_N_KM32,50.8918351,-73.0813159,I-80 East,Rural,65 kph,6,Eastbound,197,Low,543,no,Property Damage,Fog,Potholes,620,Yellow,9,FALSE,YES,TRUE,Camera,Peak,Weekday,86,30
+16-07-2024 03:44,HWY_95_N_KM26,44.4216309,-79.8995838,I-95 North,Highway,52 kph,4,Westbound,292,Medium,185,no,Fatal,Fog,Icy,679,Green,25,TRUE,NO,TRUE,Camera,Night,Weekday,67,90
+18-07-2024 01:12,HWY_95_N_KM30,58.8629509,-82.1474552,I-90 West,Highway,52kph,4,Eastbound,496,Medium,679,no,Fatal,Clear,Dry,646,Red,12,FALSE,NO,TRUE,Loop detector ,Peak,Weekday,75,90
+19-07-2024 22:40,HWY_95_N_KM81,41.5700482,-102.5815025,I-80 East,Highway,65 kph,4,Westbound,120,Low,329,yes,Property Damage,Snow,Potholes,634,Red,10,TRUE,YES,FALSE,Loop detector,Peak,Weekend,80,30
+21-07-2024 20:08,HWY_95_N_KM27,54.0870541,-106.0837531,I-90 North,Highway,65 kph,4,Westbound,425,Medium,"1,000",yes,Fatal,Rain,Wet,781,Green,12,TRUE,YES,TRUE,Camera,Peak,Weekday,64,105
+23-07-2024 17:36,HWY_95_N_KM58,36.2265209,-76.8184183,I-95 South,Highway,65 kph,6,Westbound,120,Low,128,no,Property Damage,Fog,Dry,634,Yellow,12,FALSE,YES,TRUE,GPS,Night,Weekend,92,15
+25-07-2024 15:04,HWY_95_N_KM86,53.7382514,-112.5166999,I-90 West,Rural,65 kph,4,Westbound,501,High,145,yes,Injury,Snow,Dry,633,Green ,10,TRUE,NO,TRUE,Loop detector,Off-Peak,Weekend,52,45
+27-07-2024 12:32,HWY_95_N_KM89,53.5598005,-102.0427345,I-80 East,Urban,73kph,4,Northbound,758,High,134,yes,Injury,Snow,Potholes,633,Green,12,FALSE,NO,FALSE,GPS,Peak,Weekday,55,60
+29-07-2024 10:00,HWY_95_N_KM39,36.2746005,-111.9348039,I-95 South,Highway,65 kph,5,Northbound,248,Medium,192,yes,Property Damage,Clear,Wet,633,Yellow,18,FALSE,YES,TRUE,GPS,Off-Peak,Weekday,60,30
+31-07-2024 07:28,HWY_95_N_KM25,54.4004793,-76.0172161,I-80 West,Rural,61 kph,4,Eastbound,823,High,100,yes,Property Damage,Fog,Icy,633,Yellow,4,TRUE,YES,FALSE,Loop detector,Off-Peak,Weekday,42,15
+02-08-2024 04:56,HWY_95_N_KM92,38.6724783,-120.0614829,I-90 West,Highway,60 kph,5,Eastbound,120,Low,100,yes,Injury,Rain,Potholes,624,Green,22,FALSE,NO,TRUE,GPS,Off-Peak,Weekday,99,60
+04-08-2024 02:25,HWY_95_N_KM31,37.9119542,-97.3051524,I-90 North,Highway,64 kph,3,Westbound,663,High,190,no,Fatal,Snow,Wet,154,Yellow,12,FALSE,NO,FALSE,Loop detector,Peak,Weekend,59,105
+05-08-2024 23:53,HWY_95_N_KM84,47.4191368,-71.4220878,I-95 North,Highway,79kph,4,Northbound,812,High,283,no,Fatal,Clear,Dry,817,Green,16,FALSE,YES,FALSE,Camera,Night,Weekday,41,90
+07-08-2024 21:21,HWY_95_N_KM44,43.949285,-74.3208575,I-95 South,Highway,65 kph,4,Southbound,120,Low,180,yes,Injury,Rain,Dry,831,Green,12,FALSE,YES,TRUE,GPS,Peak,Weekday,96,60
+09-08-2024 18:49,HWY_95_N_KM74,53.9287597,-99.2699762,I-95 North,Urban,41 kph,4,Westbound,120,Low,185,yes,Injury,Rain,Potholes,251,Green,24,TRUE,NO,TRUE,Loop detector,Off-Peak,Weekday,89,60
+11-08-2024 16:17,HWY_95_N_KM25,47.856041,-114.0495397,I-95 South,Urban,65 kph,4,Eastbound,"1,023",Severe,231,no,Fatal,Snow,Icy,634,Yellow,3,FALSE,NO,TRUE,Loop detector,Peak,Weekday,31,90
+13-08-2024 13:45,HWY_95_N_KM64,46.7900523,-68.9360786,I-90 West,Highway,76 kph,4,Westbound,"1,051",Severe,279,yes,Fatal,Snow,Wet,636,Green ,22,TRUE,NO,TRUE,Camera,Peak,Weekday,26,105
+15-08-2024 11:12,HWY_95_N_KM61,38.353753,-93.1691068,I-95 South,Rural,64 kph,5,Northbound,506,High,183,yes,Fatal,Rain,Potholes,636,Yellow,0,TRUE,YES,FALSE,Loop detector,Off-Peak,Weekday,53,105
+17-08-2024 08:41,HWY_95_N_KM82,49.0621651,-85.5713581,I-80 East,Rural,40 kph,5,Westbound,120,Low,180,yes,Fatal,Fog,Potholes,636,Red,10,TRUE,NO,TRUE,Loop detector,Off-Peak,Weekday,96,105
+19-08-2024 06:09,HWY_95_N_KM63,52.953889,-103.8987194,I-95 North,Rural,59 kph,5,Westbound,500,Medium,145,yes,Injury,Fog,Dry,636,Yellow,11,FALSE,NO,TRUE,Loop detector,Peak,Weekend,65,45
+21-08-2024 03:37,HWY_95_N_KM88,37.8892215,-87.9330887,I-90 West,Highway,78 kph,4,Westbound,120,Low,126,no,Injury,Fog,Dry,636,Red,2,TRUE,NO,FALSE,Loop detector ,Peak,Weekday,84,45
+23-08-2024 01:05,HWY_95_N_KM97,51.7746478,-123.490501,I-90 North,Urban,76 kph,4,Southbound,502,High,272,no,Fatal,Clear,Icy,636,Yellow,21,FALSE,YES,FALSE,Camera,Off-Peak,Weekend,45,90
+24-08-2024 22:33,HWY_95_N_KM40,47.3959113,-90.0207193,I-90 North,Highway,65 kph,4,Westbound,962,Severe,250,no,Fatal,Fog,Wet,479,Red,12,FALSE,YES,FALSE,Loop detector ,Off-Peak,Weekend,28,105
+26-08-2024 20:01,HWY_95_N_KM15,55.2540272,-72.2688975,I-80 East,Highway,65 kph,5,Eastbound,120,Low,176,no,Fatal,Rain,Wet,499,Red,12,TRUE,NO,FALSE,GPS,Peak,Weekday,94,105
+28-08-2024 17:29,HWY_95_N_KM13,53.0964775,-68.778984,I-95 South,Rural,28 kph,3,Eastbound,746,High,203,no,Injury,Fog,Icy,603,Green,22,TRUE,NO,FALSE,Camera,Off-Peak,Weekday,43,45
+30-08-2024 14:57,HWY_95_N_KM29,46.3597194,-73.8117168,I-95 South,Urban,65 kph,5,Westbound,507,High,100,yes,Fatal,Clear,Potholes,638,Yellow,3,FALSE,YES,TRUE,Loop detector,Peak,Weekend,52,105
+01-09-2024 12:25,HWY_95_N_KM29,40.5551159,-110.9967054,I-90 West,Highway,33kph,5,Southbound,723,High,177,yes,Injury,Rain,Potholes,340,Red,12,FALSE,YES,FALSE,Camera,Peak,Weekend,50,60
+03-09-2024 09:53,HWY_95_N_KM95,56.660098,-76.3166734,I-80 West,Highway,29 kph,4,Westbound,502,High,135,no,Injury,Rain,Potholes,373,Green ,12,TRUE,NO,TRUE,Camera,Peak,Weekday,40,60
+05-09-2024 07:21,HWY_95_N_KM52,50.3906993,-85.6350032,I-95 North,Highway,78 kph,3,Northbound,418,Medium,176,yes,Fatal,Fog,Wet,272,Red,12,FALSE,NO,FALSE,Camera,Peak,Weekday,77,105
+07-09-2024 04:49,HWY_95_N_KM28,42.3527598,-99.988604,I-90 West,Rural,28 kph,4,Southbound,704,High,273,yes,Fatal,Clear,Dry,641,Red,16,FALSE,NO,TRUE,Loop detector ,Night,Weekend,55,90
+09-09-2024 02:17,HWY_95_N_KM71,58.0577149,-73.2095851,I-90 West,Highway,71 kph,5,Northbound,120,Low,273,yes,Fatal,Fog,Wet,372,Green,12,FALSE,YES,TRUE,Camera,Night,Weekend,96,105
+10-09-2024 23:45,HWY_95_N_KM94,59.660338,-115.6963579,I-90 North,Rural,71kph,4,Eastbound,120,Low,238,yes,Injury,Snow,Dry,585,Green,12,FALSE,YES,FALSE,GPS,Night,Weekday,81,45
+12-09-2024 21:13,HWY_95_N_KM69,54.0776579,-100.8031043,I-80 East,Highway,20 kph,3,Northbound,500,Medium,226,no,Fatal,Snow,Wet,288,Yellow,12,FALSE,YES,FALSE,Camera,Peak,Weekday,62,105
+14-09-2024 18:41,HWY_95_N_KM66,49.2899029,-122.9946626,I-80 West,Urban,76 kph,4,Southbound,670,High,175,yes,Property Damage,Fog,Icy,646,Yellow,12,TRUE,NO,FALSE,GPS,Off-Peak,Weekend,50,15
+16-09-2024 16:09,HWY_95_N_KM29,53.4554528,-110.2940143,I-95 North,Highway,65 kph,4,Westbound,822,High,175,no,Property Damage,Snow,Potholes,648,Red,6,TRUE,YES,FALSE,Loop detector ,Peak,Weekend,41,30
+18-09-2024 13:37,HWY_95_N_KM78,53.5871918,-73.0169374,I-80 West,Rural,47kph,5,Eastbound,"1,183",Severe,236,yes,Fatal,Rain,Potholes,178,Red,13,FALSE,YES,TRUE,Loop detector ,Off-Peak,Weekday,26,105
+20-09-2024 11:06,HWY_95_N_KM22,37.769326,-105.0693488,I-80 West,Rural,24 kph,4,Northbound,504,High,100,yes,Injury,Clear,Potholes,823,Yellow,3,TRUE,NO,TRUE,Loop detector,Peak,Weekday,44,60
+22-09-2024 08:34,HWY_95_N_KM25,54.0650702,-121.1520143,I-95 South,Urban,79 kph,6,Westbound,400,Medium,175,no,Injury,Snow,Potholes,651,Red,12,FALSE,NO,FALSE,GPS,Night,Weekday,72,60
+24-09-2024 06:02,HWY_95_N_KM23,38.4919623,-75.643951,I-90 North,Highway,45kph,6,Eastbound,497,Medium,100,no,Fatal,Rain,Dry,650,Red,24,FALSE,NO,TRUE,Camera,Off-Peak,Weekend,76,105
+26-09-2024 03:30,HWY_95_N_KM15,45.703662,-89.8002586,I-95 South,Urban,48 kph,4,Northbound,176,Low,174,yes,Fatal,Rain,Potholes,650,Yellow,12,TRUE,YES,FALSE,Camera,Peak,Weekend,97,105
+28-09-2024 00:58,HWY_95_N_KM85,44.123751,-107.2737118,I-80 East,Rural,66 kph,4,Southbound,120,Low,112,no,Injury,Fog,Wet,650,Yellow,12,TRUE,NO,TRUE,GPS,Night,Weekend,94,60
+29-09-2024 22:25,HWY_95_N_KM68,45.9765967,-119.6839471,I-90 North,Rural,65 kph,5,Northbound,570,High,257,yes,Injury,Clear,Wet,650,Yellow,12,TRUE,YES,FALSE,Camera,Night,Weekday,45,60
+01-10-2024 19:53,HWY_95_N_KM17,47.4836437,-74.5746114,I-95 North,Highway, 42 kph,5,Southbound,500,Medium,204,yes,Injury,Clear,Dry,535,Red,24,TRUE,YES,TRUE,Loop detector ,Peak,Weekend,64,45
+03-10-2024 17:22,HWY_95_N_KM20,36.0099151,-115.7910859,I-80 West,Rural,65 kph,4,Westbound,120,Low,184,no,Injury,Rain,Potholes,534,Red,12,FALSE,NO,FALSE,Camera,Off-Peak,Weekday,81,60
+05-10-2024 14:50,HWY_95_N_KM54,38.4161763,-74.6330661,I-95 North,Highway,79 kph,3,Northbound,629,High,176,no,Fatal,Clear,Wet,170,Green ,12,TRUE,YES,FALSE,Loop detector ,Peak,Weekday,52,105
+07-10-2024 12:18,HWY_95_N_KM13,44.6682576,-106.3457443,I-95 South,Highway,52 kph,5,Northbound,"1,064",Severe,125,no,Fatal,Snow,Wet,542,Yellow,12,TRUE,YES,TRUE,Camera,Off-Peak,Weekday,21,105
+09-10-2024 09:46,HWY_95_N_KM19,43.1842233,-116.1681687,I-95 North,Urban,58 kph,4,Westbound,505,High,240,no,Injury,Snow,Potholes,829,Yellow,12,FALSE,NO,TRUE,Camera,Off-Peak,Weekend,53,60
+11-10-2024 07:14,HWY_95_N_KM62,41.8280149,-120.8323349,I-95 South,Highway,65 kph,4,Northbound,105,Low,100,no,Injury,Fog,Dry,920,Green ,6,TRUE,NO,TRUE,Loop detector ,Peak,Weekday,100,45
+13-10-2024 04:42,HWY_95_N_KM23,51.721683,-78.4766646,I-80 East,Highway,32kph,4,Northbound,120,Low,173,yes,Fatal,Clear,Dry,654,Green ,12,FALSE,YES,FALSE,Camera,Night,Weekday,89,90
+15-10-2024 02:10,HWY_95_N_KM10,59.5073896,-92.8442739,I-90 West,Highway,60 kph,3,Eastbound,500,Medium,173,no,Fatal,Fog,Potholes,652,Yellow,17,FALSE,YES,TRUE,Loop detector,Off-Peak,Weekday,79,105
+16-10-2024 23:38,HWY_95_N_KM35,59.043754,-88.3766874,I-80 East,Highway,44 kph,2,Westbound,120,Low,268,no,Fatal,Clear,Wet,804,Yellow,12,FALSE,YES,FALSE,GPS,Night,Weekday,88,105
+18-10-2024 21:06,HWY_95_N_KM93,47.514197,-73.7662987,I-95 South,Urban,78 kph,4,Westbound,"1,005",Severe,287,yes,Fatal,Rain,Icy,860,Green,12,TRUE,NO,FALSE,Camera,Peak,Weekday,33,105
+20-10-2024 18:34,HWY_95_N_KM97,40.1614687,-104.0922072,I-80 West,Highway,65 kph,5,Northbound,"1,192",Severe,174,no,Property Damage,Rain,Potholes,589,Red,7,FALSE,YES,TRUE,Camera,Peak,Weekday,26,30
+22-10-2024 16:02,HWY_95_N_KM14,55.5032211,-101.8335789,I-80 West,Rural,67kph,3,Northbound,120,Low,173,yes,Fatal,Fog,Wet,308,Green ,3,TRUE,NO,FALSE,Camera,Peak,Weekday,84,105
+24-10-2024 13:30,HWY_95_N_KM30,48.3862839,-90.1293228,I-90 North,Urban,74 kph,5,Eastbound,120,Low,142,no,Property Damage,Rain,Icy,606,Green,12,FALSE,YES,TRUE,Loop detector,Off-Peak,Weekend,93,30
+26-10-2024 10:58,HWY_95_N_KM92,50.0876716,-81.2195338,I-80 West,Rural,35 kph,5,Southbound,880,High,203,no,Injury,Clear,Wet,247,Red,12,FALSE,NO,TRUE,Camera,Night,Weekend,60,60
+28-10-2024 08:26,HWY_95_N_KM83,56.1174741,-113.326573,I-90 North,Highway,77 kph,5,Eastbound,502,High,188,yes,Injury,Fog,Wet,653,Yellow,12,FALSE,NO,TRUE,Loop detector,Peak,Weekend,44,60
+30-10-2024 05:54,HWY_95_N_KM39,42.4748043,-81.0428164,I-95 North,Rural,59 kph,5,Eastbound,120,Low,100,no,Fatal,Fog,Wet,656,Red,12,TRUE,NO,TRUE,Loop detector ,Peak,Weekday,100,105
+01-11-2024 03:22,HWY_95_N_KM65,35.871289,-93.66173,I-80 West,Urban,65 kph,3,Westbound,401,Medium,100,no,Property Damage,Clear,Dry,656,Red,12,FALSE,YES,FALSE,Camera,Peak,Weekday,75,15
+03-11-2024 00:50,HWY_95_N_KM92,40.826703,-69.8447871,I-80 West,Rural,29 kph,3,Southbound,155,Low,173,no,Property Damage,Snow,Dry,852,Green,12,TRUE,NO,FALSE,Camera,Night,Weekend,81,15
+04-11-2024 22:19,HWY_95_N_KM36,38.4913184,-123.4689404,I-95 South,Highway,35 kph,4,Westbound,484,Medium,173,yes,Fatal,Snow,Potholes,238,Yellow,13,TRUE,YES,FALSE,Loop detector,Night,Weekend,63,105
+06-11-2024 19:47,HWY_95_N_KM28,54.2075686,-121.5220455,I-80 West,Highway,73 kph,4,Eastbound,318,Medium,239,no,Property Damage,Rain,Icy,655,Yellow,25,TRUE,NO,FALSE,Loop detector ,Off-Peak,Weekday,63,30
+08-11-2024 17:15,HWY_95_N_KM68,57.4346744,-86.3922944,I-80 East,Rural,65 kph,5,Southbound,224,Medium,159,yes,Fatal,Fog,Dry,756,Green ,9,FALSE,NO,TRUE,Loop detector ,Night,Weekend,64,90
+10-11-2024 14:43,HWY_95_N_KM71,40.9370727,-111.1051445,I-95 South,Highway,78 kph,3,Southbound,120,Low,173,no,Injury,Fog,Dry,421,Yellow,19,TRUE,NO,TRUE,Loop detector ,Peak,Weekend,85,45
+12-11-2024 12:11,HWY_95_N_KM50,53.7222236,-71.2671635,I-80 East,Highway,65 kph,4,Westbound,510,High,100,yes,Injury,Fog,Icy,646,Yellow,19,TRUE,NO,FALSE,Loop detector,Off-Peak,Weekday,44,45
+14-11-2024 09:38,HWY_95_N_KM96,58.875904,-113.8714866,I-80 West,Highway,55kph,6,Northbound,953,Severe,263,yes,Injury,Fog,Potholes,659,Yellow,0,TRUE,NO,TRUE,Loop detector,Night,Weekday,33,60
+16-11-2024 07:06,HWY_95_N_KM43,55.2848687,-103.8673904,I-90 North,Urban,50 kph,3,Westbound,120,Low,173,no,Injury,Clear,Potholes,659,Red,12,TRUE,NO,TRUE,Camera,Night,Weekend,89,60
+18-11-2024 04:35,HWY_95_N_KM87,40.9366693,-109.6045475,I-90 North,Highway,54 kph,4,Eastbound,516,High,236,yes,Fatal,Clear,Icy,911,Green ,12,TRUE,NO,FALSE,Loop detector ,Night,Weekday,54,90
+20-11-2024 02:03,HWY_95_N_KM69,56.2751017,-84.0192774,I-80 East,Rural,65 kph,4,Eastbound,633,High,100,no,Injury,Fog,Wet,659,Red,21,TRUE,YES,FALSE,Camera,Off-Peak,Weekend,41,60
+21-11-2024 23:31,HWY_95_N_KM38,52.4554377,-112.2878018,I-95 North,Highway,22kph,3,Eastbound,492,Medium,221,yes,Property Damage,Snow,Wet,657,Yellow,12,TRUE,YES,TRUE,Loop detector,Night,Weekday,79,30
+23-11-2024 20:59,HWY_95_N_KM91,47.8309401,-86.38547,I-80 West,Rural,70 kph,3,Eastbound,192,Low,100,yes,Fatal,Clear,Wet,676,Red,12,FALSE,YES,FALSE,GPS,Night,Weekday,98,105
+25-11-2024 18:27,HWY_95_N_KM48,51.5380337,-113.0322457,I-95 South,Rural,65 kph,4,Northbound,963,Severe,172,no,Fatal,Fog,Potholes,657,Green,12,TRUE,YES,FALSE,GPS,Peak,Weekday,21,105
+27-11-2024 15:55,HWY_95_N_KM98,59.1071515,-109.6253804,I-80 West,Highway,65 kph,5,Northbound,515,High,100,yes,Injury,Rain,Potholes,657,Yellow,22,TRUE,NO,TRUE,Camera,Off-Peak,Weekend,50,60
+29-11-2024 13:23,HWY_95_N_KM31,48.2800719,-112.3359301,I-95 North,Highway,48 kph,4,Westbound,941,Severe,254,yes,Injury,Clear,Dry,657,Yellow,5,FALSE,YES,FALSE,GPS,Peak,Weekend,38,45
+01-12-2024 10:51,HWY_95_N_KM97,41.5146371,-88.6509624,I-95 North,Highway,45 kph,6,Southbound,514,High,100,no,Fatal,Clear,Wet,657,Red,12,FALSE,YES,FALSE,Loop detector ,Peak,Weekend,41,105
+03-12-2024 08:19,HWY_95_N_KM63,57.0511178,-68.612102,I-80 West,Urban,65 kph,4,Northbound,459,Medium,234,yes,Injury,Fog,Icy,480,Red,12,TRUE,NO,TRUE,GPS,Off-Peak,Weekday,70,45
+05-12-2024 05:47,HWY_95_N_KM26,53.9629816,-93.1496063,I-90 West,Highway,71 kph,3,Northbound,"1,042",Severe,100,yes,Fatal,Rain,Icy,657,Red,12,TRUE,NO,FALSE,Loop detector,Off-Peak,Weekday,25,105
+07-12-2024 03:15,HWY_95_N_KM22,38.4406421,-101.8188381,I-95 South,Highway,65 kph,6,Southbound,510,High,139,no,Fatal,Clear,Dry,593,Yellow,12,TRUE,NO,TRUE,Loop detector,Off-Peak,Weekday,46,90
+09-12-2024 00:43,HWY_95_N_KM44,58.7337911,-110.3411179,I-80 West,Urban,67 kph,3,Southbound,658,High,162,yes,Fatal,Snow,Wet,593,Red,12,TRUE,YES,TRUE,Loop detector,Night,Weekday,41,105
+10-12-2024 22:11,HWY_95_N_KM96,51.760533,-96.8929363,I-95 North,Highway,26 kph,4,Northbound,685,High,100,yes,Injury,Snow,Icy,659,Red,20,FALSE,NO,FALSE,Camera,Peak,Weekday,52,45
+12-12-2024 19:39,HWY_95_N_KM44,46.3604441,-74.299454,I-90 West,Rural,65 kph,3,Southbound,506,High,100,yes,Injury,Snow,Potholes,759,Green,12,FALSE,YES,TRUE,GPS,Night,Weekend,55,60
+14-12-2024 17:07,HWY_95_N_KM43,50.3563415,-68.9541182,I-95 South,Highway,65 kph,3,Northbound,120,Low,100,yes,Property Damage,Fog,Icy,928,Yellow,12,FALSE,YES,FALSE,Camera,Peak,Weekday,86,15
+16-12-2024 14:35,HWY_95_N_KM88,55.6572713,-98.2774415,I-90 West,Highway,76 kph,4,Northbound,340,Medium,168,yes,Property Damage,Clear,Wet,618,Yellow,12,FALSE,NO,TRUE,Loop detector,Night,Weekday,64,30
+18-12-2024 12:03,HWY_95_N_KM40,39.9104306,-89.2786721,I-90 North,Highway,50 kph,4,Westbound,369,Medium,274,yes,Property Damage,Rain,Wet,656,Red,12,TRUE,NO,TRUE,Camera,Off-Peak,Weekday,62,30
+20-12-2024 09:31,HWY_95_N_KM13,56.5739789,-124.8590097,I-95 North,Highway,29 kph,5,Eastbound,506,High,169,no,Fatal,Fog,Wet,762,Red,12,TRUE,NO,FALSE,Camera,Night,Weekday,43,105
+22-12-2024 07:00,HWY_95_N_KM35,40.6791555,-108.8778011,I-80 West,Highway,65 kph,1,Eastbound,120,Low,196,no,Property Damage,Rain,Potholes,779,Red,9,FALSE,YES,FALSE,Camera,Off-Peak,Weekday,82,30
+24-12-2024 04:28,HWY_95_N_KM21,46.6803853,-97.1985491,I-90 West,Rural,64kph,4,Northbound,120,Low,172,yes,Injury,Snow,Dry,655,Red,12,TRUE,YES,FALSE,Camera,Night,Weekday,99,45
+26-12-2024 01:56,HWY_95_N_KM62,44.2749538,-107.6404741,I-95 North,Highway,65 kph,3,Eastbound,460,Medium,172,yes,Fatal,Snow,Dry,654,Red,12,TRUE,YES,TRUE,GPS,Peak,Weekday,63,90
+27-12-2024 23:24,HWY_95_N_KM73,57.9327367,-94.0877108,I-80 East,Rural,47 kph,5,Eastbound,120,Low,173,yes,Fatal,Fog,Icy,654,Red,12,TRUE,YES,FALSE,GPS,Off-Peak,Weekday,89,90
+29-12-2024 20:51,HWY_95_N_KM77,36.7721019,-89.8403467,I-90 North,Highway,65 kph,3,Westbound,793,High,100,yes,Fatal,Fog,Icy,248,Red,4,TRUE,YES,FALSE,Loop detector,Night,Weekday,41,90
+31-12-2024 18:19,HWY_95_N_KM26,52.1018919,-82.3129402,I-95 South,Urban,65 kph,4,Westbound,612,High,154,yes,Injury,Rain,Icy,654,Green ,11,TRUE,NO,TRUE,Loop detector ,Night,Weekday,60,60
+02-01-2025 15:47,HWY_95_N_KM18,45.6169089,-124.368829,I-80 East,Highway,57 kph,6,Eastbound,521,High,225,no,Fatal,Fog,Dry,658,Yellow,1,TRUE,YES,TRUE,Loop detector,Peak,Weekday,59,90
+04-01-2025 13:16,HWY_95_N_KM34,49.7549643,-74.7716592,I-80 West,Highway,51 kph,4,Southbound,152,Low,219,no,Fatal,Rain,Dry,283,Yellow,12,TRUE,NO,TRUE,Camera,Night,Weekday,100,105
+06-01-2025 10:44,HWY_95_N_KM67,46.9302565,-77.4027014,I-90 West,Highway,28 kph,4,Northbound,482,Medium,100,no,Injury,Snow,Dry,950,Yellow,12,FALSE,YES,FALSE,GPS,Peak,Weekend,61,45
+08-01-2025 08:12,HWY_95_N_KM43,43.2445975,-119.5943964,I-80 West,Urban,53 kph,4,Westbound,165,Low,237,yes,Fatal,Fog,Icy,317,Red,12,TRUE,NO,FALSE,GPS,Off-Peak,Weekday,80,90
+10-01-2025 05:40,HWY_95_N_KM18,55.4112089,-104.9028739,I-80 West,Rural,77 kph,4,Westbound,120,Low,147,no,Injury,Snow,Dry,635,Yellow,12,TRUE,NO,TRUE,Loop detector ,Peak,Weekend,84,45
+12-01-2025 03:08,HWY_95_N_KM11,38.0585461,-92.8517766,I-95 North,Urban,61 kph,2,Southbound,521,High,100,yes,Fatal,Clear,Icy,663,Green ,7,TRUE,YES,TRUE,Loop detector,Night,Weekday,48,90
+14-01-2025 00:36,HWY_95_N_KM29,47.0217433,-89.837232,I-80 West,Rural,31 kph,5,Westbound,120,Low,175,yes,Injury,Rain,Icy,663,Yellow,16,FALSE,YES,FALSE,Loop detector ,Off-Peak,Weekend,82,60
+15-01-2025 22:04,HWY_95_N_KM23,44.2796355,-121.093609,I-90 North,Highway,65 kph,4,Southbound,785,High,100,no,Fatal,Snow,Icy,663,Yellow,12,TRUE,YES,TRUE,Loop detector,Off-Peak,Weekday,58,90
+17-01-2025 19:32,HWY_95_N_KM46,47.4212276,-90.0452011,I-90 North,Urban,65 kph,4,Southbound,"1,085",Severe,175,yes,Fatal,Clear,Potholes,663,Red,9,TRUE,NO,FALSE,Camera,Off-Peak,Weekend,34,105
+19-01-2025 17:00,HWY_95_N_KM14,56.8721204,-87.3485278,I-90 North,Highway,26 kph,4,Southbound,533,High,297,no,Injury,Clear,Dry,157,Green ,11,FALSE,NO,FALSE,Loop detector ,Off-Peak,Weekday,57,45
+21-01-2025 14:28,HWY_95_N_KM23,50.9426801,-86.0061607,I-95 North,Urban,30kph,4,Northbound,352,Medium,100,yes,Injury,Snow,Icy,663,Green,12,FALSE,NO,TRUE,Camera,Peak,Weekday,70,45
+23-01-2025 11:56,HWY_95_N_KM42,45.4709567,-65.6724523,I-95 South,Urban,65 kph,4,Eastbound,432,Medium,231,no,Property Damage,Fog,Dry,175,Green,12,TRUE,YES,FALSE,Loop detector,Peak,Weekday,68,15
+25-01-2025 09:24,HWY_95_N_KM62,51.3201347,-87.9831506,I-90 North,Urban,55kph,4,Eastbound,360,Medium,100,yes,Fatal,Rain,Potholes,986,Yellow,12,TRUE,NO,TRUE,Loop detector ,Night,Weekend,73,105
+27-01-2025 06:52,HWY_95_N_KM15,41.1585071,-95.3057112,I-95 South,Rural,64 kph,4,Eastbound,919,Severe,100,no,Property Damage,Rain,Dry,687,Green,12,TRUE,YES,TRUE,Loop detector,Off-Peak,Weekend,31,30
+29-01-2025 04:20,HWY_95_N_KM48,36.8541854,-69.5914965,I-80 East,Urban,80 kph,5,Northbound,364,Medium,246,no,Fatal,Clear,Dry,269,Yellow,14,TRUE,YES,FALSE,Camera,Peak,Weekend,62,90
+31-01-2025 01:48,HWY_95_N_KM31,58.6299266,-79.2434883,I-95 South,Highway,33 kph,6,Northbound,529,High,175,no,Property Damage,Clear,Wet,169,Red,12,FALSE,YES,FALSE,Loop detector,Peak,Weekend,56,30
+01-02-2025 23:16,HWY_95_N_KM49,35.4459122,-74.5467136,I-90 West,Highway,62 kph,6,Northbound,525,High,175,yes,Property Damage,Fog,Wet,675,Green ,12,FALSE,NO,TRUE,Camera,Night,Weekday,57,30
+03-02-2025 20:44,HWY_95_N_KM23,48.5074092,-102.5401724,I-90 West,Highway,28 kph,4,Westbound,120,Low,162,no,Fatal,Snow,Potholes,769,Green ,14,FALSE,NO,TRUE,Camera,Off-Peak,Weekday,89,105
+05-02-2025 18:13,HWY_95_N_KM22,58.7725602,-101.2957147,I-80 East,Highway,68 kph,4,Eastbound,120,Low,175,yes,Fatal,Clear,Dry,807,Green,12,TRUE,NO,TRUE,Camera,Peak,Weekend,88,90
+07-02-2025 15:41,HWY_95_N_KM59,40.1281937,-113.6042897,I-95 South,Highway,51 kph,5,Northbound,527,High,165,no,Injury,Rain,Icy,680,Green ,6,FALSE,YES,TRUE,GPS,Off-Peak,Weekday,56,60
+09-02-2025 13:09,HWY_95_N_KM46,35.3784995,-86.2741418,I-80 West,Urban,36 kph,3,Eastbound,120,Low,175,no,Property Damage,Fog,Dry,678,Green ,7,TRUE,NO,FALSE,Loop detector ,Off-Peak,Weekday,86,15
+11-02-2025 10:37,HWY_95_N_KM66,44.35056,-70.6469569,I-90 North,Urban,65 kph,5,Eastbound,537,High,100,no,Fatal,Rain,Dry,678,Red,12,TRUE,NO,TRUE,Camera,Off-Peak,Weekday,52,105
+13-02-2025 08:04,HWY_95_N_KM74,56.4694563,-99.6041021,I-95 South,Rural,70 kph,4,Westbound,293,Medium,208,no,Property Damage,Fog,Dry,678,Red,12,TRUE,YES,TRUE,GPS,Off-Peak,Weekday,77,15
+15-02-2025 05:32,HWY_95_N_KM99,50.1192288,-103.2707845,I-95 North,Rural,23 kph,3,Northbound,933,Severe,100,yes,Property Damage,Rain,Potholes,678,Green ,12,TRUE,NO,FALSE,GPS,Night,Weekend,37,30
+17-02-2025 03:00,HWY_95_N_KM96,41.6302585,-94.8597868,I-80 East,Highway,56 kph,4,Northbound,120,Low,100,no,Property Damage,Snow,Potholes,678,Red,21,TRUE,NO,TRUE,Loop detector,Night,Weekday,98,30
+19-02-2025 00:29,HWY_95_N_KM24,43.7518338,-100.4523243,I-95 South,Rural,65 kph,4,Northbound,545,High,164,no,Injury,Snow,Dry,526,Green,24,TRUE,NO,TRUE,Camera,Night,Weekday,41,45
+20-02-2025 21:57,HWY_95_N_KM72,53.8020384,-79.5732322,I-90 North,Highway,58 kph,5,Eastbound,120,Low,176,no,Property Damage,Rain,Wet,601,Yellow,4,TRUE,YES,TRUE,Camera,Night,Weekday,87,30
+22-02-2025 19:25,HWY_95_N_KM10,42.2461409,-123.4681754,I-90 West,Rural,53 kph,5,Eastbound,"1,034",Severe,191,no,Fatal,Snow,Wet,847,Yellow,12,TRUE,YES,FALSE,Camera,Off-Peak,Weekday,35,105
+24-02-2025 16:53,HWY_95_N_KM22,46.6004206,-85.4359476,I-80 East,Highway,77 kph,2,Southbound,120,Low,100,no,Injury,Clear,Wet,641,Yellow,12,FALSE,NO,FALSE,Loop detector ,Off-Peak,Weekend,91,60
+26-02-2025 14:21,HWY_95_N_KM21,46.6157703,-124.5299195,I-80 East,Urban,65 kph,5,Northbound,551,High,171,no,Injury,Rain,Icy,416,Green ,6,FALSE,NO,TRUE,Loop detector ,Night,Weekday,55,60
+28-02-2025 11:49,HWY_95_N_KM41,36.2839471,-80.8227964,I-90 West,Urban,55kph,4,Northbound,"1,146",Severe,172,yes,Fatal,Snow,Dry,916,Yellow,12,FALSE,NO,FALSE,Loop detector,Off-Peak,Weekend,39,90
+02-03-2025 09:17,HWY_95_N_KM72,58.1472186,-93.3122707,I-95 South,Highway,26kph,4,Westbound,551,High,100,yes,Fatal,Snow,Potholes,485,Red,14,TRUE,YES,FALSE,Camera,Night,Weekday,46,105
+04-03-2025 06:45,HWY_95_N_KM60,52.4241289,-105.8178758,I-90 West,Rural,24 kph,3,Northbound,837,High,176,no,Property Damage,Fog,Dry,680,Yellow,2,TRUE,NO,FALSE,Loop detector,Night,Weekday,41,15
+06-03-2025 04:13,HWY_95_N_KM83,49.1599847,-90.9337715,I-80 West,Highway,76 kph,4,Southbound,401,Medium,279,yes,Injury,Clear,Wet,919,Green ,5,FALSE,NO,FALSE,Loop detector,Night,Weekday,65,60
+08-03-2025 01:41,HWY_95_N_KM69,50.995539,-82.4958136,I-90 North,Rural,50kph,4,Northbound,542,High,100,yes,Injury,Rain,Potholes,683,Yellow,4,TRUE,YES,TRUE,Camera,Night,Weekend,40,60
+09-03-2025 23:09,HWY_95_N_KM92,44.5421056,-92.5591055,I-90 West,Highway,65 kph,3,Westbound,713,High,106,yes,Injury,Clear,Potholes,538,Green,11,TRUE,NO,TRUE,Camera,Peak,Weekday,48,60
+11-03-2025 20:37,HWY_95_N_KM37,55.1857972,-73.6891515,I-80 West,Highway,45 kph,3,Southbound,540,High,146,yes,Injury,Clear,Wet,679,Green,22,TRUE,NO,FALSE,Camera,Off-Peak,Weekday,42,60
+13-03-2025 18:05,HWY_95_N_KM88,42.3256219,-113.7266801,I-90 North,Highway,79 kph,4,Southbound,540,High,132,yes,Fatal,Rain,Potholes,681,Yellow,12,FALSE,NO,TRUE,Camera,Night,Weekend,50,105
+15-03-2025 15:33,HWY_95_N_KM93,43.5045238,-77.5876847,I-90 North,Highway,39 kph,1,Northbound,537,High,178,yes,Fatal,Snow,Wet,834,Red,12,TRUE,YES,TRUE,Loop detector ,Peak,Weekday,48,105
+17-03-2025 13:01,HWY_95_N_KM59,56.984894,-97.8842126,I-90 West,Rural,42 kph,4,Northbound,905,Severe,256,no,Property Damage,Snow,Dry,529,Red,12,TRUE,NO,FALSE,Camera,Night,Weekend,25,15
+19-03-2025 10:29,HWY_95_N_KM54,36.7877064,-77.0137832,I-90 West,Rural,80 kph,4,Westbound,"1,183",Severe,115,yes,Property Damage,Clear,Potholes,649,Yellow,12,TRUE,YES,TRUE,GPS,Peak,Weekday,28,30
+21-03-2025 07:57,HWY_95_N_KM33,56.6982424,-91.3446848,I-80 East,Rural,34 kph,4,Southbound,120,Low,202,yes,Fatal,Rain,Dry,681,Red,12,TRUE,YES,FALSE,Camera,Peak,Weekend,82,105
+23-03-2025 05:25,HWY_95_N_KM90,54.3590729,-99.4124869,I-80 West,Urban,43 kph,3,Southbound,322,Medium,100,yes,Injury,Fog,Icy,682,Yellow,12,FALSE,YES,TRUE,Camera,Peak,Weekday,61,45
+25-03-2025 02:54,HWY_95_N_KM12,43.1924857,-80.0870747,I-90 West,Highway,35 kph,3,Westbound,120,Low,164,no,Fatal,Rain,Dry,107,Red,12,TRUE,NO,TRUE,Loop detector,Off-Peak,Weekend,85,105
+27-03-2025 00:22,HWY_95_N_KM59,58.7356823,-75.2599072,I-95 South,Urban,48 kph,4,Northbound,527,High,180,no,Fatal,Clear,Icy,682,Green,6,TRUE,NO,FALSE,Camera,Off-Peak,Weekday,57,90
+28-03-2025 21:50,HWY_95_N_KM79,35.9758721,-94.8042001,I-95 South,Rural,66 kph,3,Northbound,954,Severe,228,yes,Injury,Clear,Dry,692,Red,12,FALSE,NO,TRUE,Camera,Off-Peak,Weekend,20,45
+30-03-2025 19:17,HWY_95_N_KM27,38.1524476,-74.0779385,I-80 East,Highway,48 kph,4,Northbound,120,Low,137,yes,Injury,Snow,Wet,692,Green,12,FALSE,YES,TRUE,Loop detector,Night,Weekday,92,60
+01-04-2025 16:45,HWY_95_N_KM97,52.5611273,-102.5252689,I-90 West,Highway,65 kph,4,Southbound,"1,055",Severe,114,yes,Injury,Snow,Wet,692,Green ,12,TRUE,YES,FALSE,GPS,Night,Weekend,37,60
+03-04-2025 14:13,HWY_95_N_KM89,41.6441142,-76.7836739,I-80 East,Highway,65 kph,4,Northbound,530,High,100,no,Fatal,Fog,Wet,692,Yellow,12,FALSE,NO,TRUE,Loop detector ,Off-Peak,Weekday,54,105
+05-04-2025 11:41,HWY_95_N_KM86,45.9146241,-79.3682168,I-95 South,Rural,25 kph,4,Eastbound,120,Low,116,yes,Injury,Snow,Dry,692,Green,12,FALSE,NO,TRUE,Loop detector ,Peak,Weekend,89,45
+07-04-2025 09:10,HWY_95_N_KM86,37.5424596,-117.1966757,I-80 East,Highway,23 kph,4,Northbound,"1,087",Severe,218,no,Fatal,Clear,Icy,692,Red,16,FALSE,YES,FALSE,GPS,Off-Peak,Weekday,23,90
+09-04-2025 06:38,HWY_95_N_KM87,42.5002931,-124.3896485,I-80 West,Highway,65 kph,4,Southbound,120,Low,100,no,Injury,Clear,Wet,692,Green,18,FALSE,YES,FALSE,Loop detector,Peak,Weekday,90,60
+11-04-2025 04:06,HWY_95_N_KM91,35.4138486,-123.0553132,I-95 South,Rural,65 kph,4,Southbound,536,High,113,no,Injury,Rain,Dry,352,Green,0,TRUE,NO,TRUE,Loop detector ,Peak,Weekend,59,60
+13-04-2025 01:34,HWY_95_N_KM97,41.1855125,-104.8840258,I-90 West,Urban,44 kph,3,Southbound,525,High,100,no,Property Damage,Rain,Icy,692,Green,12,FALSE,NO,FALSE,Camera,Night,Weekend,45,30
+14-04-2025 23:02,HWY_95_N_KM24,49.8908699,-109.9048143,I-90 West,Highway,50 kph,6,Southbound,"1,113",Severe,190,yes,Injury,Rain,Potholes,699,Yellow,15,TRUE,YES,FALSE,Loop detector ,Peak,Weekday,23,60
+16-04-2025 20:30,HWY_95_N_KM27,56.6810376,-79.2179336,I-90 West,Highway,65 kph,5,Southbound,453,Medium,183,yes,Injury,Fog,Wet,699,Red,16,TRUE,YES,FALSE,Loop detector,Peak,Weekday,67,60
+18-04-2025 17:58,HWY_95_N_KM82,48.036483,-83.957837,I-95 North,Highway,55 kph,5,Westbound,318,Medium,205,yes,Fatal,Snow,Dry,563,Red,3,TRUE,YES,FALSE,Loop detector,Off-Peak,Weekday,68,90
+20-04-2025 15:26,HWY_95_N_KM14,43.2337325,-87.7780936,I-80 East,Urban,65 kph,4,Westbound,521,High,184,no,Injury,Clear,Potholes,102,Yellow,12,FALSE,YES,FALSE,Loop detector ,Peak,Weekend,40,60
+22-04-2025 12:54,HWY_95_N_KM41,35.2715339,-67.1838653,I-80 West,Highway,65 kph,5,Westbound,889,High,196,no,Property Damage,Fog,Dry,702,Yellow,9,FALSE,NO,FALSE,Camera,Off-Peak,Weekday,52,15
+24-04-2025 10:22,HWY_95_N_KM37,44.5211897,-120.4614992,I-80 West,Urban,41kph,5,Westbound,795,High,100,no,Injury,Fog,Wet,716,Red,12,FALSE,YES,TRUE,Camera,Night,Weekend,42,60
+26-04-2025 07:50,HWY_95_N_KM58,44.8868384,-85.7668245,I-90 West,Highway,71 kph,2,Southbound,120,Low,285,yes,Injury,Rain,Dry,716,Yellow,15,FALSE,YES,TRUE,Camera,Peak,Weekday,89,60
+28-04-2025 05:18,HWY_95_N_KM90,35.8029598,-73.1330494,I-90 North,Highway,22 kph,5,Southbound,519,High,100,no,Injury,Fog,Icy,716,Green,24,FALSE,NO,FALSE,Loop detector,Night,Weekend,53,45
+30-04-2025 02:46,HWY_95_N_KM23,52.8765406,-87.5203857,I-95 North,Urban,35 kph,5,Northbound,401,Medium,186,yes,Fatal,Snow,Icy,716,Red,12,FALSE,YES,TRUE,Loop detector,Off-Peak,Weekday,64,90
+02-05-2025 00:14,HWY_95_N_KM25,39.681282,-124.6641988,I-90 West,Highway,65 kph,3,Southbound,522,High,100,yes,Fatal,Rain,Dry,716,Yellow,12,FALSE,YES,FALSE,Loop detector ,Off-Peak,Weekday,54,105
+03-05-2025 21:42,HWY_95_N_KM57,54.6833127,-110.6723264,I-90 West,Rural,67 kph,4,Northbound,522,High,189,yes,Fatal,Rain,Potholes,540,Green,12,TRUE,YES,FALSE,GPS,Off-Peak,Weekday,58,105
+05-05-2025 19:10,HWY_95_N_KM36,53.4039766,-106.0253814,I-95 South,Rural,21kph,2,Eastbound,900,High,100,yes,Property Damage,Snow,Potholes,106,Green ,12,TRUE,YES,TRUE,Loop detector,Night,Weekday,45,30
+07-05-2025 16:38,HWY_95_N_KM30,46.6619821,-72.9200624,I-90 West,Highway,65 kph,5,Northbound,525,High,295,no,Injury,Fog,Dry,721,Red,12,TRUE,YES,TRUE,GPS,Off-Peak,Weekend,46,45
+09-05-2025 14:06,HWY_95_N_KM66,36.6163443,-78.115557,I-90 North,Rural,63 kph,5,Southbound,974,Severe,164,yes,Injury,Fog,Potholes,738,Yellow,16,FALSE,NO,FALSE,Loop detector,Off-Peak,Weekday,31,60
+11-05-2025 11:35,HWY_95_N_KM35,49.2358095,-85.8615169,I-80 East,Highway,76 kph,5,Southbound,120,Low,193,yes,Injury,Snow,Dry,266,Yellow,12,TRUE,NO,FALSE,Loop detector ,Peak,Weekend,95,45
+13-05-2025 09:03,HWY_95_N_KM16,59.2651514,-88.5075461,I-90 North,Highway,65 kph,4,Southbound,515,High,195,no,Property Damage,Fog,Wet,617,Red,20,TRUE,NO,FALSE,Loop detector,Off-Peak,Weekday,55,30
+15-05-2025 06:30,HWY_95_N_KM41,41.0752307,-118.2028948,I-80 West,Highway,65 kph,4,Northbound,501,High,111,yes,Fatal,Snow,Dry,753,Yellow,16,FALSE,YES,TRUE,GPS,Off-Peak,Weekend,51,90
+17-05-2025 03:58,HWY_95_N_KM76,57.8951694,-93.0465252,I-95 South,Highway,71 kph,5,Northbound,120,Low,100,yes,Injury,Snow,Icy,330,Red,1,FALSE,NO,FALSE,Loop detector ,Peak,Weekend,93,45
+19-05-2025 01:26,HWY_95_N_KM22,43.4937684,-111.5608446,I-80 East,Rural,52 kph,3,Eastbound,840,High,195,yes,Fatal,Snow,Wet,186,Yellow,12,FALSE,YES,FALSE,Loop detector ,Night,Weekday,60,105
+20-05-2025 22:54,HWY_95_N_KM78,50.8668296,-98.6141616,I-80 East,Rural,32 kph,4,Eastbound,"1,021",Severe,252,no,Property Damage,Rain,Dry,771,Red,23,TRUE,NO,TRUE,Loop detector,Peak,Weekend,30,30
+22-05-2025 20:22,HWY_95_N_KM60,57.2927869,-71.0312596,I-80 West,Urban,63 kph,4,Northbound,342,Medium,196,no,Property Damage,Snow,Dry,460,Red,12,TRUE,NO,TRUE,Loop detector,Off-Peak,Weekday,73,15
+24-05-2025 17:51,HWY_95_N_KM79,50.1906894,-93.3650807,I-90 West,Urban,43 kph,3,Westbound,"1,085",Severe,265,no,Property Damage,Fog,Wet,792,Yellow,0,FALSE,NO,TRUE,Camera,Night,Weekday,36,30
+26-05-2025 15:19,HWY_95_N_KM86,47.5019796,-92.9404593,I-90 North,Highway,65 kph,3,Westbound,339,Medium,100,no,Injury,Snow,Icy,804,Yellow,2,TRUE,YES,FALSE,GPS,Peak,Weekday,67,45
+28-05-2025 12:47,HWY_95_N_KM19,47.8737181,-70.0851018,I-90 North,Urban,26 kph,5,Westbound,"1,019",Severe,100,yes,Injury,Snow,Wet,805,Yellow,12,FALSE,NO,TRUE,Camera,Night,Weekday,31,60
+30-05-2025 10:15,HWY_95_N_KM78,42.3703176,-71.8013819,I-90 North,Rural,65 kph,4,Northbound,120,Low,232,no,Fatal,Fog,Potholes,805,Green ,10,TRUE,NO,TRUE,Loop detector,Night,Weekday,84,105
+01-06-2025 07:43,HWY_95_N_KM20,45.5893897,-115.8178952,I-80 East,Urban,38 kph,3,Northbound,258,Medium,289,yes,Injury,Rain,Dry,853,Green,12,TRUE,NO,FALSE,Camera,Off-Peak,Weekday,60,60
+03-06-2025 05:11,HWY_95_N_KM24,59.8842935,-106.3170649,I-95 South,Highway,65 kph,4,Westbound,973,Severe,167,no,Property Damage,Rain,Icy,990,Yellow,20,TRUE,YES,TRUE,Camera,Night,Weekday,37,30
+05-06-2025 02:39,HWY_95_N_KM25,52.1630593,-75.863208,I-95 North,Urban,66 kph,3,Westbound,479,Medium,100,no,Property Damage,Clear,Potholes,162,Yellow,3,FALSE,NO,FALSE,GPS,Off-Peak,Weekday,77,30
+07-06-2025 00:07,HWY_95_N_KM42,47.4728013,-116.8663636,I-95 North,Urban,65 kph,4,Northbound,120,Low,202,yes,Fatal,Clear,Potholes,794,Yellow,5,FALSE,NO,TRUE,Camera,Off-Peak,Weekday,87,105
+08-06-2025 21:35,HWY_95_N_KM92,35.9926965,-69.1648633,I-90 North,Rural,65 kph,3,Westbound,466,Medium,102,yes,Injury,Clear,Potholes,825,Green,13,FALSE,YES,TRUE,GPS,Off-Peak,Weekday,62,60
+10-06-2025 19:03,HWY_95_N_KM78,56.2675706,-102.5991683,I-80 East,Urban,78 kph,4,Eastbound,668,High,100,yes,Fatal,Snow,Wet,827,Yellow,12,TRUE,NO,FALSE,GPS,Off-Peak,Weekday,57,105
+12-06-2025 16:31,HWY_95_N_KM33,55.8511261,-89.7201171,I-80 East,Rural,76 kph,5,Eastbound,"1,197",Severe,203,no,Property Damage,Rain,Dry,827,Green ,11,FALSE,YES,FALSE,Loop detector,Night,Weekday,37,30
+14-06-2025 13:59,HWY_95_N_KM80,37.5015507,-88.1024438,I-95 South,Highway,65 kph,1,Westbound,120,Low,206,no,Injury,Fog,Wet,827,Yellow,12,FALSE,YES,FALSE,Camera,Night,Weekend,83,60
+16-06-2025 11:27,HWY_95_N_KM60,41.5355637,-67.9192348,I-80 East,Highway,24kph,4,Northbound,765,High,200,yes,Property Damage,Clear,Potholes,827,Red,12,FALSE,NO,FALSE,Camera,Night,Weekday,52,30
+18-06-2025 08:55,HWY_95_N_KM10,48.9875026,-74.8644356,I-90 West,Highway,54 kph,3,Northbound,428,Medium,100,yes,Injury,Snow,Wet,827,Red,12,FALSE,NO,TRUE,Loop detector ,Peak,Weekday,71,60
+20-06-2025 06:23,HWY_95_N_KM51,52.5764306,-73.9839654,I-80 East,Highway,31 kph,4,Southbound,120,Low,209,no,Injury,Fog,Wet,899,Green,12,TRUE,NO,FALSE,Loop detector,Peak,Weekday,85,60
+22-06-2025 03:51,HWY_95_N_KM56,50.1338472,-97.2729717,I-90 North,Highway,65 kph,4,Northbound,120,Low,136,yes,Injury,Clear,Wet,934,Green ,12,FALSE,YES,TRUE,GPS,Peak,Weekday,97,60
+24-06-2025 01:19,HWY_95_N_KM38,53.2489908,-78.5077723,I-80 West,Highway,66 kph,4,Northbound,426,Medium,100,yes,Fatal,Snow,Potholes,821,Green ,12,FALSE,NO,FALSE,Camera,Night,Weekend,78,105
+25-06-2025 22:48,HWY_95_N_KM92,57.7076622,-81.9929127,I-95 North,Highway,30 kph,3,Eastbound,452,Medium,150,no,Fatal,Rain,Potholes,811,Yellow,12,FALSE,NO,TRUE,Camera,Peak,Weekend,79,105
+27-06-2025 20:16,HWY_95_N_KM16,59.3848525,-74.4453968,I-90 West,Highway,65 kph,5,Northbound,827,High,100,no,Property Damage,Fog,Icy,810,Yellow,23,TRUE,YES,TRUE,Camera,Night,Weekend,53,15
+29-06-2025 17:43,HWY_95_N_KM67,36.2273567,-121.5524833,I-95 North,Highway,65 kph,5,Eastbound,488,Medium,171,no,Fatal,Rain,Icy,810,Red,12,FALSE,YES,FALSE,Camera,Off-Peak,Weekday,60,105
+01-07-2025 15:11,HWY_95_N_KM48,43.0614072,-103.5958189,I-90 North,Rural,65 kph,3,Eastbound,256,Medium,100,no,Injury,Snow,Dry,810,Yellow,12,TRUE,YES,FALSE,Camera,Night,Weekday,61,45
+03-07-2025 12:39,HWY_95_N_KM47,36.3856438,-75.9863267,I-95 North,Urban,73 kph,4,Southbound,328,Medium,179,yes,Injury,Snow,Wet,810,Yellow,16,FALSE,YES,TRUE,Camera,Off-Peak,Weekday,66,60
+05-07-2025 10:07,HWY_95_N_KM15,53.9006802,-105.5579277,I-90 West,Highway,75 kph,4,Northbound,120,Low,138,no,Fatal,Snow,Icy,843,Yellow,12,TRUE,NO,FALSE,GPS,Off-Peak,Weekday,81,90
+07-07-2025 07:35,HWY_95_N_KM11,47.4310556,-76.1838653,I-90 West,Urban,53 kph,1,Eastbound,"1,118",Severe,749,no,Property Damage,Rain,Potholes,810,Green ,6,TRUE,YES,TRUE,GPS,Off-Peak,Weekday,23,30
+09-07-2025 05:04,HWY_95_N_KM43,54.1981997,-109.8011681,I-95 South,Highway,23 kph,5,Eastbound,978,Severe,678,no,Injury,Rain,Dry,802,Red,13,FALSE,YES,FALSE,Camera,Peak,Weekday,24,60
+11-07-2025 02:32,HWY_95_N_KM55,53.4038313,-88.0139124,I-90 West,Highway,74 kph,3,Northbound,189,Low,456,no,Fatal,Snow,Icy,799,Green,13,FALSE,YES,TRUE,Loop detector,Off-Peak,Weekend,93,90
+13-07-2025 00:00,HWY_95_N_KM22,48.0391171,-92.9526667,I-95 South,Rural,65 kph,6,Northbound,120,Low,120,yes,Injury,Clear,Potholes,796,Yellow,12,TRUE,YES,TRUE,Camera,Off-Peak,Weekday,94,60
