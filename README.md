@@ -1,1 +1,2 @@
 # Project-2
+The png file contains the screenshot of dashboard. The pdf file contains details of all the things done in the project along with its detailed explanation. The ipynb file contains the python code for EDA process.TrafficProjectUncleaned is the initial dataset that was uncleaned and with the help of excel it is being cleaned.The Trafficdatasetfinal is the cleaned version of the csv file. The twbx is the Table AU file for dashboard.
